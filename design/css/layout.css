@@ -6,12 +6,17 @@
 
 /* hacks */
 .icon{background-image:none !important;}
+body{padding-top:40px; background-color:#eeeaf8;}
 
 
-.navbar-inner{background:none; box-shadow: none;}
-.navbar-inner .nav li a{color:#480049; text-shadow:none; font-size:16px; padding:20px 0 0 40px; opacity:0.8}
-.navbar-inner .nav li a:hover{color:#480049; opacity:1;}
-.navbar-inner .nav li a i{padding: 1px 5px 0 0;}
+/* HEADER */
+/* ______________________________________________________________________*/
 
-body{background-color:#63bae5;}
-body img{display:block; margin:0 auto;}
+
+
+/* HERO */
+/* ______________________________________________________________________*/
+.hero{height: 600px; background:url(../images/hero/backer.jpg) no-repeat center top #602261;}
+
+
+
