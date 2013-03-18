@@ -7,34 +7,36 @@
 	<section class="options">
 		<div class="container">
 			<div class="row">
-				<div class="span4">
-					<h3>What are kits?</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				<div class="span6">
+					<h3><a href="#">Our Kits</a></h3>
+					<a href="#"><img src="http://placekitten.com/630/400/"></a>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 					</p>
+					<p>$740 gets you:</p>
+					<ul>
+						<li>A thing</li>
+						<li>Another thing</li>
+						<li>And another</li>
+						<li>A thing</li>
+						<li>A thing</li>
+					</ul>
 				</div>
-				<div class="span8">
-					<img src="http://placekitten.com/800/250">
+				<div class="span6">
+					<h3><a href="#">Custom Kits</a></h3>
+					<a href="#"><img src="http://placekitten.com/630/400/"></a>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+					</p>
+					<p>$1000 gets you:</p>
+					<ul>
+						<li>A thing</li>
+						<li>Another thing</li>
+						<li>And another</li>
+						<li>A thing</li>
+						<li>A thing</li>
+					</ul>
 				</div>
 			</div>
 		</div>
 	</section>
 	
-	<section class="action">
-		<div class="container">
-			<div class="row">
-				<div class="span8">
-					<a href="#">
-						<img src="http://placekitten.com/800/300">
-					</a>
-				</div>
-				<div class="span4">
-					<h3>We also make custom kits</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-					</p>
-					<a href="#">See some in action</a>
-				</div>
-			</div>
-		</div>
-	</section>
-
 <?php include 'footer.php'; ?>

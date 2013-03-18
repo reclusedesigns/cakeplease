@@ -15,19 +15,19 @@
 				</div>
 				<div class="span3">
 					<a href="#">
-						<h3>Novelty</h3>
+						<h3>Cakes</h3>
 						<img src="http://placekitten.com/300/200">
 					</a>
 				</div>
 				<div class="span3">
 					<a href="#">
-						<h3>Weddings</h3>
+						<h3>Cookies</h3>
 						<img src="http://placekitten.com/300/200">
 					</a>
 				</div>
 				<div class="span3">
 					<a href="#">
-						<h3>Lol</h3>
+						<h3>Cakepops</h3>
 						<img src="http://placekitten.com/300/200">
 					</a>
 				</div>

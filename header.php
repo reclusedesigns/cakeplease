@@ -29,17 +29,30 @@
 
 	<!-- Navbar
 	================================================== -->
-
-	<div class="navbar navbar-static-top">
-	  <div class="navbar-inner">
-	  	<div class="container">
-		    <a class="brand" href="index.php"><img src="design/images/header/logo.png" alt="logo"></a>
-		    <ul class="nav pull-right">
-			    <li><a href="cakes.php">Cakes</a></li>
+	
+	<div class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+			
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				  <span class="icon-bar"></span>
+				  <span class="icon-bar"></span>
+				  <span class="icon-bar"></span>
+				</a>
+			
+				<a class="brand" href="index.php"><img src="design/images/header/logo.png" alt="logo"></a>
+				
+				<!-- Everything you want hidden at 940px or less, place within here -->
+				<div class="nav-collapse collapse">
+					<ul class="nav pull-right">
+					<li><a href="cakes.php">Cakes</a></li>
 		      <li><a href="parties.php">Parties</a></li>
 		      <li><a href="kits.php">Kits</a></li>
-		    </ul>
-	  	</div>
-	  </div>
+				</ul>
+				</div>
+			
+			</div>
+		</div>
 	</div>
-
+	
+	
