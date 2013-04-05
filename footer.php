@@ -2,7 +2,7 @@
 
 
 	<!-- FOOTER -->
-	<section class="contact">
+	<section id="contact" class="contact scrollto_js">
 		<div class="container">
 			<div class="row">
 				<div class="span4">
@@ -15,19 +15,15 @@
 				</div>
 				<div class="span4">
 					<h4>Social</h4>
-					<a href="#">F</a>
-					<a href="#">T</a>
-					<a href="#">L</a>
-					<a href="#">P</a>
-					<a href="#">T</a>
+					<a class="button fb" href="http://facebook.com/cakepleasemelbourne">Facebook</a>
 				</div>
 			</div>
 		</div>
-	</contact>
+	</section>
 	
 	<footer>
 		<div class="container">
-			<p>This site is copyright bla bla</p>
+			<p>&copy; Cake Please 2013</p>
 		</div>
 	</footer>
 	
