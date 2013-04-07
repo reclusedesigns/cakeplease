@@ -15,7 +15,7 @@
 				</div>
 				<div class="span4">
 					<h4>Social</h4>
-					<a class="button fb" href="http://facebook.com/cakepleasemelbourne">Facebook</a>
+					<a href="http://facebook.com/cakepleasemelbourne" class="button fb">Facebook</a>
 				</div>
 			</div>
 		</div>

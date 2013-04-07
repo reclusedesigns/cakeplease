@@ -23,7 +23,7 @@ p.lead{font-family: "bello-pro",sans-serif;}
 p, a, ul li{font-family: "omnes-pro",sans-serif;}
 
 h4{font-size:22px; font-weight:300;}
-p{}
+p{font-size:16px;}
 a:hover{text-decoration: none; color:#26a8e9}
 
 
@@ -68,11 +68,14 @@ a:hover{text-decoration: none; color:#26a8e9}
 
 .options{text-align: center; padding-top:100px;}
 .options .option{background:url(../images/body/backer.jpg); border:1px solid #fff; border-radius: 5px; display: block; padding:20px; box-shadow: 0 2px 4px rgba(0,0,0,0.7);}
-.options .option .title{font-size:30px; display: block; padding: 20px; color:#4d1d4d; background:#f8f8f8; margin-top:-60px; margin-bottom:20px; border:5px solid #fa2166; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.7); transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out;}
-.options .option img{border:10px solid #f8f8f8; margin-left:-10px; border-radius: 5px; box-shadow: 0 3px 3px rgba(0,0,0,0.8); background:#fff;}
+.options .option .title{font-size:30px; display: block; padding: 20px; color:#4d1d4d; background:#f8f8f8; margin-top:-60px; margin-bottom:20px; border:5px solid #fa2166; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.7);transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out;}
+.options .option .description{border:10px solid #f8f8f8; border-radius: 5px; box-shadow: 0 3px 3px rgba(0,0,0,0.8); background:#f8f8f8; display: block; transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out;}
+.options .option .description img{padding-bottom:10px;}
+.options .option .description p{color:#999; text-shadow: 0 1px 1px #fff;}
 
 .options .option:hover .title{background:#fa2166; color:#fff; text-shadow: 0 2px 1px #ca1d53}
-.options .option:hover{opacity:1;}
+.options .option:hover .description{background:#fa2166; border-color:#fa2166}
+.options .option:hover .description p{color:#fff; text-shadow:  0 1px 1px #ca1d53;}
 
 /* CONTACT AND FOOTER */
 /* ------------------------------------------------------------------------------------------- */

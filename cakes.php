@@ -1,34 +1,58 @@
 <?php include 'header.php'; ?>
 
+<div class="page">
 	<section class="hero">
-		<img src="http://placekitten.com/1440/500">
+		<div class="container">
+			<img src="design/images/hero/hero.jpg" alt="hero" />
+<!--
+			<div class="action">
+				<a class="hero_button" href="mailto:hello@cakeplease.com.au">Email us</a>
+			</div>
+-->
+		</div>
 	</section>
 	
-	<section class="options">
+	<section class="options content">
 		<div class="container">
 			<div class="row">
 				<div class="span3">
-					<a href="#">
-						<h3>Cupcakes</h3>
-						<img src="http://placekitten.com/300/200">
+					<a class="option" href="cakes.php">
+						<span class="title">Cupcakes</span>
+							<span class="description">
+								<img src="design/images/home/cakes.jpg" alt="cakes" />
+								<p>Tailor made cakes designed for any occasion. Make somebody feel special.</p>
+							</span>
+						</span>
 					</a>
 				</div>
 				<div class="span3">
-					<a href="#">
-						<h3>Cakes</h3>
-						<img src="http://placekitten.com/300/200">
+					<a class="option" href="cakes.php">
+						<span class="title">Cakes</span>
+							<span class="description">
+								<img src="design/images/home/cakes.jpg" alt="cakes" />
+								<p>Tailor made cakes designed for any occasion. Make somebody feel special.</p>
+							</span>
+						</span>
 					</a>
 				</div>
 				<div class="span3">
-					<a href="#">
-						<h3>Cookies</h3>
-						<img src="http://placekitten.com/300/200">
+					<a class="option" href="cakes.php">
+						<span class="title">Cookies</span>
+							<span class="description">
+								<img src="design/images/home/cakes.jpg" alt="cakes" />
+								<p>Tailor made cakes designed for any occasion. Make somebody feel special.</p>
+							</span>
+						</span>
 					</a>
 				</div>
 				<div class="span3">
-					<a href="#">
-						<h3>Cakepops</h3>
-						<img src="http://placekitten.com/300/200">
+					<a class="option" href="cakes.php">
+						<span class="title">Cakepops</span>
+							<span class="description">
+								<img src="design/images/home/cakes.jpg" alt="cakes" />
+								<p>Tailor made cakes designed for any occasion. Make somebody feel special.</p>
+							</span>
+						</span>
 					</a>
 				</div>
 
@@ -50,4 +74,5 @@
 			</div>
 		</div>
 	</section>
+</div>
 <?php include 'footer.php'; ?>

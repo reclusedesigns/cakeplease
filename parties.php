@@ -1,39 +1,52 @@
 <?php include 'header.php'; ?>
 
+<div class="page">
 	<section class="hero">
-		<img src="http://placekitten.com/1440/500">
-	</section>
-	
-	<section class="options">
+		<div class="container">
+			<img src="design/images/hero/hero.jpg" alt="hero" />
+<!--
+			<div class="action">
+				<a class="hero_button" href="mailto:hello@cakeplease.com.au">Email us</a>
+			</div>
+-->
+		</div>
+	</section>	
+	<section class="options content">
 		<div class="container">
 			<div class="row">
 				<div class="span6">
-					<h3><a href="#">Kids Parties</a></h3>
-					<a href="#"><img src="http://placekitten.com/630/400/"></a>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-					</p>
-					<p>$740 gets you:</p>
-					<ul>
-						<li>A thing</li>
-						<li>Another thing</li>
-						<li>And another</li>
-						<li>A thing</li>
-						<li>A thing</li>
-					</ul>
+					<a class="option" href="cakes.php">
+						<span class="title">Kids Parties</span>
+							<span class="description">
+								<img src="design/images/home/cakes.jpg" alt="cakes" />
+								<p>$740 gets you:</p>
+								<ul>
+									<li>A thing</li>
+									<li>Another thing</li>
+									<li>And another</li>
+									<li>A thing</li>
+									<li>A thing</li>
+								</ul>
+							</span>
+						</span>
+					</a>
 				</div>
 				<div class="span6">
-					<h3><a href="#">Cupcake Parties</a></h3>
-					<a href="#"><img src="http://placekitten.com/630/400/"></a>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-					</p>
-					<p>$1000 gets you:</p>
-					<ul>
-						<li>A thing</li>
-						<li>Another thing</li>
-						<li>And another</li>
-						<li>A thing</li>
-						<li>A thing</li>
-					</ul>
+					<a class="option" href="cakes.php">
+						<span class="title">Cupcake Parties</span>
+							<span class="description">
+								<img src="design/images/home/cakes.jpg" alt="cakes" />
+								<p>$740 gets you:</p>
+								<ul>
+									<li>A thing</li>
+									<li>Another thing</li>
+									<li>And another</li>
+									<li>A thing</li>
+									<li>A thing</li>
+								</ul>
+							</span>
+						</span>
+					</a>
 				</div>
 			</div>
 		</div>
@@ -56,5 +69,5 @@
 			</div>
 		</div>
 	</section>
-
+</div>
 <?php include 'footer.php'; ?>
