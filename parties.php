@@ -1,9 +1,9 @@
 <?php include 'header.php'; ?>
 
-<div class="page">
+<div class="parties page">
 	<section class="hero">
 		<div class="container">
-			<img src="design/images/hero/hero.jpg" alt="hero" />
+			<img src="design/images/hero/parties_hero.jpg" alt="hero" />
 <!--
 			<div class="action">
 				<a class="hero_button" href="mailto:hello@cakeplease.com.au">Email us</a>

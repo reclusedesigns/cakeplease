@@ -2,6 +2,7 @@
 
 
 	<!-- FOOTER -->
+
 	<section id="contact" class="contact scrollto_js">
 		<div class="container">
 			<div class="row">
@@ -15,7 +16,9 @@
 				</div>
 				<div class="span4">
 					<h4>Social</h4>
-					<a href="http://facebook.com/cakepleasemelbourne" class="button fb">Facebook</a>
+					<a href="http://facebook.com/cakepleasemelbourne" class="button fb">
+					<img src="design/images/footer/rike.png">
+					Like us on Facebook</a>
 				</div>
 			</div>
 		</div>

@@ -50,7 +50,7 @@
 					<ul class="nav pull-right">
 					<li class="<?php echo ($page_name=='cakes.php')?'active':'';?>"><a href="cakes.php">Cakes</a></li>
 		      <li class="<?php echo ($page_name=='parties.php')?'active':'';?>"><a href="parties.php">Parties</a></li>
-		      <li><a class="<?php echo ($page_name=='kits.php')?'active':'';?>" href="kits.php">Kits</a></li>
+		      <li class="<?php echo ($page_name=='kits.php')?'active':'';?>"><a href="kits.php">Kits</a></li>
 		      <li><a href="#contact" class="contact_link scrollto_js">Contact</a></li>
 				</ul>
 				</div>
