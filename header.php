@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Cake Please</title>
 	<meta name="author" content="Recluse">
-	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!-- vendor files -->
 	<link rel="stylesheet" href="design/vendor/bootstrap/css/bootstrap.css" type="text/css" media="screen" charset="utf-8">
 	<link rel="stylesheet" href="design/vendor/bootstrap/css/bootstrap-responsive.css" type="text/css" media="screen" charset="utf-8">
