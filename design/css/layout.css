@@ -74,6 +74,7 @@ a:hover{text-decoration: none; color:#26a8e9}
 
 .hero .action{text-align:center; display: block; margin-bottom:-20px;}
 
+
 .options{text-align: center; padding-top:100px;}
 .options .option{background:#fff; border:5px solid #FA2166; border-radius: 5px; display: block; padding:20px; box-shadow: 0 2px 4px rgba(0,0,0,0.7);}
 .options .option .title{font-size:30px; line-height:26px; display: block; padding: 20px; color:#fff; background:#fa2166; text-shadow: 0 2px 1px #ca1d53; margin-top:-60px; margin-bottom:20px; border:5px solid #fa2166; border-radius: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.7);transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out;}
@@ -81,6 +82,14 @@ a:hover{text-decoration: none; color:#26a8e9}
 .options .option .description img{border-radius: 5px; border:5px solid #fff; margin-left:-5px;}
 
 .options .option:hover .title{background:#f8f8f8; color:#fa2166; text-shadow: none;}
+
+
+/* CAKES */
+/* ------------------------------------------------------------------------------------------- */
+.cakes .options .option .description{min-height: 140px;}
+.cakes .action{padding:40px 0;}
+.cakes .action p{font-size: 18px; line-height: 24px;}
+
 
 
 /* CONTACT AND FOOTER */

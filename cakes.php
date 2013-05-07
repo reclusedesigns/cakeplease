@@ -16,31 +16,28 @@
 		<div class="container">
 			<div class="row">
 				<div class="span3">
-					<a class="option" href="cakes.php">
+					<a class="option" href="http://www.facebook.com/media/set/?set=a.364096387034942.1073741826.259841850793730&type=1&l=7f30f565ad">
 						<span class="title">Cupcakes</span>
 							<span class="description">
-								<img src="design/images/home/cakes.jpg" alt="cakes" />
-								<p>Tailor made cakes designed for any occasion. Make somebody feel special.</p>
+								<img src="design/images/cakes/cupcakes.jpg" alt="cakes" />
 							</span>
 						</span>
 					</a>
 				</div>
 				<div class="span3">
-					<a class="option" href="cakes.php">
+					<a class="option" href="http://www.facebook.com/media/set/?set=a.261882580589657.52303.259841850793730&type=1&l=5cd145cc56">
 						<span class="title">Cakes</span>
 							<span class="description">
-								<img src="design/images/home/cakes.jpg" alt="cakes" />
-								<p>Tailor made cakes designed for any occasion. Make somebody feel special.</p>
+								<img src="design/images/cakes/cakes.jpg" alt="cakes" />
 							</span>
 						</span>
 					</a>
 				</div>
 				<div class="span3">
-					<a class="option" href="cakes.php">
+					<a class="option" href="http://www.facebook.com/media/set/?set=a.357590211018893.1073741825.259841850793730&type=1&l=eb39f67cb8">
 						<span class="title">Cookies</span>
 							<span class="description">
-								<img src="design/images/home/cakes.jpg" alt="cakes" />
-								<p>Tailor made cakes designed for any occasion. Make somebody feel special.</p>
+								<img src="design/images/cakes/icecreamcookies.jpg" alt="cakes" />
 							</span>
 						</span>
 					</a>
@@ -50,7 +47,6 @@
 						<span class="title">Cakepops</span>
 							<span class="description">
 								<img src="design/images/home/cakes.jpg" alt="cakes" />
-								<p>Tailor made cakes designed for any occasion. Make somebody feel special.</p>
 							</span>
 						</span>
 					</a>
@@ -63,13 +59,10 @@
 	<section class="action">
 		<div class="container">
 			<div class="row">
-				<div class="span8">
-					<h3>Want some other la la?</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+				<div class="span6">
+					<h3>Got something else in mind?</h3>
+					<p>Why not send us an email or give us a call to discuss how we can get you what you want for your special occasion?
 					</p>
-				</div>
-				<div class="span4">
-					<a href="mailto:hello@cakeplease.com.au">hello@cakeplease.com.au</a>
 				</div>
 			</div>
 		</div>

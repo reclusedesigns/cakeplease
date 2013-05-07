@@ -56,8 +56,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="span4">
-					<h3>Got a party idea?</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+					<h3>Clowns and magicians are a thing of the past.</h3>
+					<p>Kids cupcakes parties is where the real magic happens! Catering to parties big and small and for all ages, we'll help organise a create your own cupcake party that's sure to put a smile on all your guest.
 					</p>
 					<a href="#">See some party ideas</a>
 				</div>
