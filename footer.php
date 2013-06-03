@@ -12,7 +12,7 @@
 				</div>
 				<div class="span4">
 					<h4>Email</h4>
-					<a href="mailto:lien@cakeplease.com.au">hello@cakeplease.com.au</a>
+					<a href="mailto:lien@cakeplease.com.au">lien@cakeplease.com.au</a>
 				</div>
 				<div class="span4">
 					<h4>Social</h4>
